@@ -1,0 +1,1 @@
+export const CHNAGE_DIMENSION = 'CHNAGE_DIMENSION'

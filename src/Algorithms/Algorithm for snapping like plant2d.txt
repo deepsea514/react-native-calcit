@@ -1,0 +1,28 @@
+Use cases for snapping like planit 2d
+
+1. I/P Range on panresponder grant.
+    Rules
+    a. Get the real dimensions in px for all the rooms in the grid.                                                 //done
+    b. Get the positions for all the rooms in the grid.                                                             //done
+    c. Generate an array 
+        . From -1000 to 1000 (max.)                                                                                 //done
+        . Stick the points of positions in range +- 5 (ex point is 100, then values generated are 95, 100)          //done
+        . Add the points of dimensions + positions +- 5 in range                                                    //pending -> Done
+        . Generate for both x and y                                                                                 //done
+
+    
+2. O/P Range on panresponder grant
+    Rules   
+    a. Get the real dimensions in px for all the rooms in the grid.                                                 //done
+    b. Get the positions for all the rooms in the grid.                                                             //done
+    c. Generate an array                                                                                            //done
+        . From -1000 to 1000 (max.)                                                                                 //done
+        . Add the exact points of positions                                                                         //done
+        . Add the exact point of dimensions + positions                                                             //pending -> Done
+        . Generate for both x and y                                                                                 //done
+
+3. Make the elements to regenerate i/p o/p ranges on drag start                                                     //done
+
+4. Handle on release -> Make the value exactly equal to the o/p range;                                              //pending
+
+5. Test all the use cases.                                                                                          //pending
