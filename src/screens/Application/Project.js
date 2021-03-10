@@ -58,7 +58,7 @@ import RNFetchBlob from 'rn-fetch-blob';
 import HtmlPdf from './Elements/HtmlPdf';
 
 //default imports
-import DefaultRoom from './Elements/OldDefaultRoom';
+import DefaultRoom from './Elements/DefaultRoom';
 import { connect } from 'react-redux';
 import {
     setArtboardDraggable,

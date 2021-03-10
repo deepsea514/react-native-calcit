@@ -15,10 +15,12 @@ Likely more work provided for right candidate, please look at the planit 2d as a
 If requested I will provide existing apk of our app so that you can get a feel for it.
 
 -------------------------------------------------------------------------------------------------
-invoice : 	salea@paulnapper.com.au
+invoice : 	sales@paulnapper.com.au
 		calcitfloorplanner developemnt
 -------------------------------------------------------------------------------------------------
 http://www.planit2d.com/#tutorials
 -------------------------------------------------------------------------------------------------
 https://join.slack.com/t/paulnapperwebdesign/shared_invite/zt-nbcwp2yc-aneSIAJSsy9BdTSzifRAZg
 https://gitlab.com/calcit/app-calcit
+
+This is itunes developer account details : u: nict2114@gmail.com  PW: Chester1211
